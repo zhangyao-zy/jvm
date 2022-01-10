@@ -1,11 +1,8 @@
 package com.zy.study11;
 
-import com.sun.xml.internal.messaging.saaj.util.ByteOutputStream;
-import com.zy.study10.MethodAreaTest;
 import org.objenesis.ObjenesisStd;
 
 import java.io.*;
-import java.lang.reflect.Constructor;
 import java.lang.reflect.InvocationTargetException;
 
 /**
